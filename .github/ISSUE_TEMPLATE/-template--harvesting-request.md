@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Collection details
-- Collection Registry URL: 
+- Collection Registry URL: https://registry.cdlib.org/admin/library_collection/collection/#####
 - Endpoint: 
 - Preview on -stage: https://calisphere-stage.cdlib.org/collections/#####
 - Published on -prod: https://calisphere.org/collections/#####
