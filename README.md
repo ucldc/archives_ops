@@ -1,2 +1,4 @@
-# harvest_ops
-Calisphere harvesting and publication operations
+# archives_ops
+
+Archives team's operations, including:
+- Calisphere harvesting and publication operations
